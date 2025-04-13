@@ -11,11 +11,12 @@ published_at: 2024-07-06 18:04
 * AtCoderで使えるC++コンパイラ(gcc,Clang)とMSVCの違いのせいでコンパイルが通ったり通らなかったりする
 * 競プロにVisualStudioはオーバースペック
 
-乗り換えるために構築した環境を、githubに公開しているのでよかったら使ってください。
+乗り換えるために構築した環境を、githubに公開しているのでよかったら使ってください。  
+@[card](https://github.com/biobios/CP-env)
 
 ## 利用方法
 
-1.  あらかじめClangかgccおよびvscodeをインストールしておく
+1.  あらかじめvscodeをインストールし、コンパイラとしてgccかclangをインストールする
 2.  お好きな場所で`https://github.com/biobios/CP-env.git`をクローンorフォークしてクローン
 3.  CP-env以下お好きな場所にc++ファイルを置いて作業する
 4.  ctrl+shift+Bで現在開いているファイルをコンパイル
