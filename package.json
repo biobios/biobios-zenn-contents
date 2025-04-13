@@ -1,0 +1,22 @@
+{
+  "name": "biobios-zenn-contents",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biobios/biobios-zenn-contents.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biobios/biobios-zenn-contents/issues"
+  },
+  "homepage": "https://github.com/biobios/biobios-zenn-contents#readme",
+  "description": "",
+  "dependencies": {
+    "zenn-cli": "^0.1.158"
+  }
+}
