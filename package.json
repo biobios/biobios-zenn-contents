@@ -17,6 +17,6 @@
   "homepage": "https://github.com/biobios/biobios-zenn-contents#readme",
   "description": "",
   "dependencies": {
-    "zenn-cli": "^0.1.158"
+    "zenn-cli": "^0.2.1"
   }
 }
