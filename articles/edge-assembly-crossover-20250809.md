@@ -3,7 +3,7 @@ title: "枝組み立て交叉法(Edge Assembly Crossover)の解説"
 emoji: "🧬"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["アルゴリズム", "遺伝的アルゴリズム", "最適化", "TSP", "巡回セールスマン問題"]
-published: false
+published: true
 ---
 ## はじめに
 
